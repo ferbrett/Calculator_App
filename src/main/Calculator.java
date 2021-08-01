@@ -24,6 +24,7 @@ private appInterface.TextProvider textProvider;
 		new calcOps.Square();
 		new calcOps.Divide();
 		new calcOps.Power();
+		new calcOps.Multiply();
 	}
 	
 	private String getTextOrZero() {
