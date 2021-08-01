@@ -22,6 +22,7 @@ private appInterface.TextProvider textProvider;
 		new calcOps.Minus();
 		new calcOps.Plus();
 		new calcOps.Square();
+		new calcOps.Divide();
 	}
 	
 	private String getTextOrZero() {
